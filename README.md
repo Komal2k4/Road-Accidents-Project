@@ -1,2 +1,2 @@
-# Road-Accidents-Project
-Road Accidents Data Analysis
+# Road Accidents Project
+Road accidents are a major public safety issue in India, leading to a large number of deaths and injuries every year. Factors like overspeeding, drunk driving, poor road conditions, and growing traffic contribute to the rise in accidents across highways, urban areas, and rural roads. To reduce such incidents, it is important to understand the patterns behind them. Data analysis plays a key role in identifying accident-prone locations, risky driving behaviors, and the times or conditions when accidents are more likely to occur. By analyzing real accident data, we can support better decision-making and help develop effective safety measures, improved road planning, and awareness programs to make Indian roads safer.
